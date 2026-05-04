@@ -32,7 +32,7 @@ I am a software developer dedicated to building robust, scalable, and user-centr
 
 **Preview:**
 <p align="center">
-  <video src="https://github.com/Pabloohdez/Pabloohdez/issues/1#issue-4375644349" width="100%" autoplay loop muted></video>
+  <video src="https://github.com/user-attachments/assets/b6a0ad94-ab63-42be-922b-a2f7cc2cd7e9" width="100%" autoplay loop muted></video>
 </p>
 
 #### 2. Event Styling Tenerife
