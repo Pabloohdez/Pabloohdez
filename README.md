@@ -32,7 +32,7 @@ I am a software developer dedicated to building robust, scalable, and user-centr
 
 #### 2. Event Styling Tenerife
 *Professional digital platform for an event designer featuring an elegant UI, service galleries, and business capabilities.*
-- **Tech Stack:** Angular 19, TypeScript, NestJS, PostgreSQL, Docker & Docker Compose.
+- **Tech Stack:** Angular 19, TypeScript, NestJS, PostgreSQL, Docker & Docker.
 - **Key Outcome:** Developed a clean and refined frontend architecture using the latest Angular framework, backed by a scalable NestJS API. Implemented a flexible infrastructure utilizing Docker Compose, supporting both local database containers and remote Supabase environments.
 - [🔗 View Project](https://github.com/Pabloohdez/event-styling-website)
 
