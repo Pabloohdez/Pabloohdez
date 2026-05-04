@@ -31,7 +31,9 @@ I am a software developer dedicated to building robust, scalable, and user-centr
 - [🔗 View Project](https://github.com/Pabloohdez/smart-economato-main)
 
 **Preview:**
-![Smart Economato Demo]https://github.com/Pabloohdez/Pabloohdez/issues/1#issue-4375644349
+<p align="center">
+  <video src="https://github.com/Pabloohdez/Pabloohdez/issues/1#issue-4375644349" width="100%" autoplay loop muted></video>
+</p>
 
 #### 2. Event Styling Tenerife
 *Professional digital platform for an event designer featuring an elegant UI, service galleries, and business capabilities.*
