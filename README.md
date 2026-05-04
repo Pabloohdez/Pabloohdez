@@ -37,10 +37,9 @@ I am a software developer dedicated to building robust, scalable, and user-centr
 - [🔗 View Project](https://github.com/Pabloohdez/event-styling-website)
 
 ### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pabloohdez&show_icons=true&theme=radical" alt="Pablo's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pabloohdez&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+
+![Pablo's Stats](https://github-readme-stats.vercel.app/api?username=Pabloohdez&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pabloohdez&layout=compact&theme=radical)
 
 ### 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pablo-hernandez-guillermo-847743296/)
