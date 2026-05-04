@@ -9,7 +9,17 @@ I am a software developer dedicated to building robust, scalable, and user-centr
 - 💬 **Ask me about:** Full-Stack development, E-commerce integrations, and relational databases.
 - ⚡ **Fun fact:** I believe that "Writing code is easy; writing *maintainable* code is the real challenge."
 
----
+### 🚀 What I'm up to:
+
+- 🏗️ **Smart-Economato** is now complete. I'm currently documenting its architecture and exploring its deployment at scale.
+- 🔍 Searching for my next big challenge in **Full-Stack Development** where I can apply my expertise in **NestJS, Angular, and Docker**.
+- 🌱 Learning **Advanced System Design** to build even more complex distributed systems.
+- ⚡ Fun fact: **The best feeling in the world is running `docker-compose up` and everything working on the first try.**
+
+### 🎓 Certifications in Progress
+
+- ☁️ **AWS Certified Cloud Practitioner** (Expected: June 2026)
+- ⚙️ **AWS Certified Developer - Associate** (Target: Q3 2026)
 
 ### 🛠 Tech Stack & Tools
 
