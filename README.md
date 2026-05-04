@@ -53,17 +53,18 @@ I am a software developer dedicated to building robust, scalable, and user-centr
 
 </details>
 
-### 📊 GitHub Stats:
+# 📊 GitHub Stats:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pabloohdez&show_icons=true&theme=tokyonight&hide_border=true&v=1" alt="Pablo's Stats" width="49%" />
-  <img src="AQUI_TU_ENLACE_DEL_GIF_DE_LOS_AVIONES" alt="Aviones GIF" width="49%" style="border-radius: 10px;" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Pabloohdez&theme=tokyonight&hide_border=true" alt="Pablo's Streak" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pabloohdez&layout=compact&theme=tokyonight&hide_border=true&v=1" alt="Top Languages" width="49%" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=user-ijavieh&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true" height="180" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/13fR00PIYwb7Gg/giphy.gif />
+  <br><br>
+  
+  <img src="https://streak-stats.demolab.com/?user=Pabloohdez&theme=blueberry&hide_border=false" height="180" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Pabloohdez&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="180" />
+</div>
 
 ### 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pablo-hernandez-guillermo-847743296/)
