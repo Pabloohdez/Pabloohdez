@@ -68,7 +68,7 @@ I am a software developer dedicated to building robust, scalable, and user-centr
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pabloohdez&theme=tokyonight&area=true&hide_border=true" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Pabloohdez&theme=tokyonight&no-bg=true&margin-w=15" width="100%" />
 </p>
 
 ### 📫 Connect with me
