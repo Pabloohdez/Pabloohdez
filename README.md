@@ -36,11 +36,6 @@ I am a software developer dedicated to building robust, scalable, and user-centr
 - **Key Outcome:** Developed a clean and refined frontend architecture using the latest Angular framework, backed by a scalable NestJS API. Implemented a flexible infrastructure utilizing Docker Compose, supporting both local database containers and remote Supabase environments.
 - [🔗 View Project](https://github.com/Pabloohdez/event-styling-website)
 
-### 📊 GitHub Stats
-
-[![Pablo's Stats](https://github-readme-stats.vercel.app/api?username=Pabloohdez&show_icons=true&theme=radical)](https://github.com/Pabloohdez)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pabloohdez&layout=compact&theme=radical)](https://github.com/Pabloohdez)
-
 ### 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pablo-hernandez-guillermo-847743296/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pablohdez.545@gmail.com)
