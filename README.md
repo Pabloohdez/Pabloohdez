@@ -39,8 +39,6 @@ I am a software developer dedicated to building robust, scalable, and user-centr
 
 </details>
 
-https://github.com/user-attachments/assets/d97e4508-2f43-4130-9f06-e904a6b0cf62
-
 #### 2. Event Styling Tenerife
 *Professional digital platform for an event designer featuring an elegant UI, service galleries, and business capabilities.*
 - **Tech Stack:** Angular 19, TypeScript, NestJS, PostgreSQL, Docker & Docker.
