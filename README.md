@@ -38,8 +38,8 @@ I am a software developer dedicated to building robust, scalable, and user-centr
 
 ### 📊 GitHub Stats
 
-![Pablo's Stats](https://github-readme-stats.vercel.app/api?username=Pabloohdez&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pabloohdez&layout=compact&theme=radical)
+[![Pablo's Stats](https://github-readme-stats.vercel.app/api?username=Pabloohdez&show_icons=true&theme=radical)](https://github.com/Pabloohdez)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pabloohdez&layout=compact&theme=radical)](https://github.com/Pabloohdez)
 
 ### 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pablo-hernandez-guillermo-847743296/)
