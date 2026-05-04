@@ -38,8 +38,8 @@ I am a software developer dedicated to building robust, scalable, and user-centr
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=radical" alt="Pablo's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubusername&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pabloohdez&show_icons=true&theme=radical" alt="Pablo's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pabloohdez&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ### 📫 Connect with me
