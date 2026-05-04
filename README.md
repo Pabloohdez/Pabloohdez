@@ -28,13 +28,13 @@ I am a software developer dedicated to building robust, scalable, and user-centr
 *Modern management system built entirely on a high-performance TypeScript ecosystem.*
 - **Tech Stack:** React, TypeScript (Vite), NestJS, PostgreSQL (Supabase), Docker.
 - **Key Outcome:** Architected a robust, full-stack application running entirely inside Docker containers. Bypassed legacy server environments to deliver a scalable, maintainable solution using a unified TypeScript codebase and remote database integrations.
-- [🔗 View Project](https://github.com/your-link)
+- [🔗 View Project](https://github.com/Pabloohdez/smart-economato-main)
 
 #### 2. Event Styling Tenerife
 *Professional digital platform for an event designer featuring an elegant UI, service galleries, and business capabilities.*
 - **Tech Stack:** Angular 19, TypeScript, NestJS, PostgreSQL, Docker & Docker Compose.
 - **Key Outcome:** Developed a clean and refined frontend architecture using the latest Angular framework, backed by a scalable NestJS API. Implemented a flexible infrastructure utilizing Docker Compose, supporting both local database containers and remote Supabase environments.
-- [🔗 View Project](https://github.com/your-link)
+- [🔗 View Project](https://github.com/Pabloohdez/event-styling-website)
 
 ### 📊 GitHub Stats
 <p align="left">
