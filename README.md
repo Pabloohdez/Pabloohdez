@@ -24,27 +24,23 @@ I am a software developer dedicated to building robust, scalable, and user-centr
 
 ### 🚀 Featured Projects
 
-#### 1. E-commerce Catalog Automation System
-*Streamlined inventory and catalog management protocols for digital storefronts.*
-- **Tech Stack:** PHP, PrestaShop API, PostgreSQL.
-- **Key Outcome:** Developed an automated product initialization protocol ensuring new catalog entries default to an inactive status with 0 stock. This architectural decision prevented premature sales, mitigated inventory errors, and optimized the pre-launch workflow for store administrators.
+#### 1. Smart Economato
+*Modern management system built entirely on a high-performance TypeScript ecosystem.*
+- **Tech Stack:** React, TypeScript (Vite), NestJS, PostgreSQL (Supabase), Docker.
+- **Key Outcome:** Architected a robust, full-stack application running entirely inside Docker containers. Bypassed legacy server environments to deliver a scalable, maintainable solution using a unified TypeScript codebase and remote database integrations.
 - [🔗 View Project](https://github.com/your-link)
 
-#### 2. Full-Stack Web Application Platform
-*A robust and scalable web platform designed for high performance and optimal user experience.*
-- **Tech Stack:** React, TypeScript, Laravel, Supabase.
-- **Key Outcome:** Implemented a secure authentication flow and a dynamic user interface, reducing loading times and improving the overall maintainability of the codebase.
+#### 2. Event Styling Tenerife
+*Professional digital platform for an event designer featuring an elegant UI, service galleries, and business capabilities.*
+- **Tech Stack:** Angular 19, TypeScript, NestJS, PostgreSQL, Docker & Docker Compose.
+- **Key Outcome:** Developed a clean and refined frontend architecture using the latest Angular framework, backed by a scalable NestJS API. Implemented a flexible infrastructure utilizing Docker Compose, supporting both local database containers and remote Supabase environments.
 - [🔗 View Project](https://github.com/your-link)
-
----
 
 ### 📊 GitHub Stats
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=radical" alt="Pablo's Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubusername&layout=compact&theme=radical" alt="Top Languages" />
 </p>
-
----
 
 ### 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile) 
