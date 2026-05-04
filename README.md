@@ -30,6 +30,9 @@ I am a software developer dedicated to building robust, scalable, and user-centr
 - **Key Outcome:** Architected a robust, full-stack application running entirely inside Docker containers. Bypassed legacy server environments to deliver a scalable, maintainable solution using a unified TypeScript codebase and remote database integrations.
 - [🔗 View Project](https://github.com/Pabloohdez/smart-economato-main)
 
+**Preview:**
+![Smart Economato Demo](URL_DE_TU_GIF_AQUI)
+
 #### 2. Event Styling Tenerife
 *Professional digital platform for an event designer featuring an elegant UI, service galleries, and business capabilities.*
 - **Tech Stack:** Angular 19, TypeScript, NestJS, PostgreSQL, Docker & Docker.
