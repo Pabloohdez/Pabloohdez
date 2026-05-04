@@ -55,24 +55,15 @@ I am a software developer dedicated to building robust, scalable, and user-centr
 
 ### 📊 GitHub Stats:
 
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=Pabloohdez&show_icons=true&theme=tokyonight&hide_border=true" alt="Pablo's Stats" width="100%" />
-    </td>
-    <td width="50%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/13fR00PIYwb7Gg/giphy.gif" alt="Squirtle GIF" width="80%" style="border-radius: 10px;" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <img src="https://streak-stats.demolab.com?user=Pabloohdez&theme=tokyonight&hide_border=true" alt="Pablo's Streak" width="100%" />
-    </td>
-    <td width="50%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pabloohdez&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="100%" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pabloohdez&show_icons=true&theme=tokyonight&hide_border=true&v=1" alt="Pablo's Stats" width="49%" />
+  <img src="AQUI_TU_ENLACE_DEL_GIF_DE_LOS_AVIONES" alt="Aviones GIF" width="49%" style="border-radius: 10px;" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Pabloohdez&theme=tokyonight&hide_border=true" alt="Pablo's Streak" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pabloohdez&layout=compact&theme=tokyonight&hide_border=true&v=1" alt="Top Languages" width="49%" />
+</p>
 
 ### 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pablo-hernandez-guillermo-847743296/)
