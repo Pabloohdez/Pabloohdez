@@ -67,6 +67,10 @@ I am a software developer dedicated to building robust, scalable, and user-centr
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Pabloohdez&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pabloohdez&theme=tokyonight&area=true&hide_border=true" width="100%" />
+</p>
+
 ### 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pablo-hernandez-guillermo-847743296/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pablohdez.545@gmail.com)
