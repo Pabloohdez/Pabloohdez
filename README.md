@@ -43,5 +43,5 @@ I am a software developer dedicated to building robust, scalable, and user-centr
 </p>
 
 ### 📫 Connect with me
-[![LinkedIn](https://www.linkedin.com/in/pablo-hernandez-guillermo-847743296/)]
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pablo-hernandez-guillermo-847743296/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pablohdez.545@gmail.com)
