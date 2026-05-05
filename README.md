@@ -37,7 +37,7 @@ I am a software developer dedicated to building robust, scalable, and user-centr
 *Modern management system built entirely on a high-performance TypeScript ecosystem.*
 - **Tech Stack:** React, TypeScript (Vite), NestJS, PostgreSQL (Supabase), Docker.
 - **Key Outcome:** Architected a robust, full-stack application running entirely inside Docker containers. Bypassed legacy server environments to deliver a scalable, maintainable solution using a unified TypeScript codebase and remote database integrations.
-- [🔗 View Project](https://github.com/Pabloohdez/smart-economato-main)
+- [🔗 View Project](https://github.com/Pabloohdez/smart-economato-personal)
 
 **Preview:**
 
