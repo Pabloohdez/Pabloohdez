@@ -26,7 +26,7 @@ I am a software developer dedicated to building robust, scalable, and user-centr
 | Category | Technologies |
 | :--- | :--- |
 | **Languages** | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB1.svg?style=for-the-badge&logo=php&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) |
 | **Backend & DB** | ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) |
 | **CMS & E-commerce**| ![PrestaShop](https://img.shields.io/badge/PrestaShop-%23DF0067.svg?style=for-the-badge&logo=prestashop&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117B85.svg?style=for-the-badge&logo=wordpress&logoColor=white) |
 | **DevOps & Tools** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D22128.svg?style=for-the-badge&logo=apache&logoColor=white) ![NGINX](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white) |
@@ -62,6 +62,12 @@ I am a software developer dedicated to building robust, scalable, and user-centr
   https://github.com/user-attachments/assets/d97e4508-2f43-4130-9f06-e904a6b0cf62
 
 </details>
+
+#### 3. Panel VPN (Frontend-VPN)
+*Unified web panel to manage OpenVPN, Pi-hole and the network inventory from a single UI, with auditing, per-device control and exportable PDF reports.*
+- **Tech Stack:** SvelteKit 2, Svelte 5 (runes), TypeScript, Node.js, PDFKit, Vitest, Docker & GitHub Actions.
+- **Key Outcome:** Designed a secure SSR panel that proxies private APIs (OpenVPN, Pi-hole v5/v6 and netmonitor) behind signed session cookies and role-based access (Admin / Auditor). Correlates device ↔ IP ↔ VPN certificate ↔ DNS queries, enables per-device internet blocking via Pi-hole v6, generates professional PDF reports and keeps a full JSONL audit trail — all containerized for dev and production.
+- [🔗 View Project](https://github.com/Pabloohdez/frontend-vpn)
 
 ### 📊 GitHub Stats:
 
